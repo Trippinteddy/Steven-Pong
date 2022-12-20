@@ -1,2 +1,0 @@
-# Steven-Pong
-Hello World!
